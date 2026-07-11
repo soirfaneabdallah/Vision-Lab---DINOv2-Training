@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/dinov2_logo.png" alt="DINOv2 Training" width="200"/>
+  <img src="img/icon.png" alt="DINOv2 Training" width="200"/>
 </p>
 
 <h1 align="center">🧪 Entraînement du classifieur DINOv2 – Notebook</h1>
@@ -108,8 +108,7 @@ Avant d'exécuter le notebook, assurez-vous d'avoir installé les dépendances s
 - tqdm
 - jupyter / jupyterlab
 
-> **Note** : Le notebook importe un module personnalisé `outils` qui contient la fonction `Load_data.load_object`. Ce module n'est pas fourni ; vous devez le créer ou adapter le chargement des données selon votre propre structure.
-
+> **Note** : Le notebook importe un module personnalisé `outils` qui contient la fonction `Load_data.load_object`. Ce module est **fourni avec le dépôt** dans le fichier `data_loader.py`. Si vous souhaitez utiliser votre propre structure de données, vous pouvez adapter ce module en conséquence.
 ---
 
 ## 🚀 Installation et exécution
