@@ -116,7 +116,7 @@ Avant d'exécuter le notebook, assurez-vous d'avoir installé les dépendances s
 ### 1. Cloner le dépôt (ou récupérer le notebook)
 
 ```bash
-git clone https://github.com/votre-username/vision-lab-dinov2-training.git
+git clone https://github.com/soirfaneabdallah/Vision-Lab---DINOv2-Training.git
 cd vision-lab-dinov2-training
 ```
 
